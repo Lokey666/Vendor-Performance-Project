@@ -85,6 +85,8 @@ It integrates SQL (data extraction), Python (processing & analytics), and Power 
 
 The project is built on a robust relational database schema designed to capture all aspects of vendor operations, inventory management, purchasing, sales, and invoicing. The schema, defined in `CREATE TABLES.sql`, includes tables for inventory snapshots at different time points, product master data, transactional purchase and sales records, and vendor invoices. Each table is structured to support granular analysis, with fields for store, brand, product details, quantities, prices, dates, and vendor information.
 
+Haven't add every eda code and analysis here.For full code can access it here:[sql](01.sql)   
+
 **Table Creation:**
 ```sql
 -- Inventory snapshots
