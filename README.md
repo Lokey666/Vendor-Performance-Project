@@ -125,6 +125,7 @@ This data foundation empowers procurement and operations teams to monitor trends
 The Python notebooks perform exploratory data analysis and generate key metrics to evaluate vendor performance. Data is extracted from the database, cleaned, and transformed to support actionable insights.
 
 Haven't add every eda code and analysis here.For full code can access it here:[ Python](01.sql)
+And for visuals can access here:![Visuals](02_python/Python visuals)
 
 **Workflow & Key Code:**
 
